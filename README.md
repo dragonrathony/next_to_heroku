@@ -29,6 +29,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 > "start": "next start -p $PORT",
 > "heroku-postbuild": "npm run build"
 
-Please reference this link to deploy next js project to heroku [Reference Link](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) .
+Please reference this link to deploy next js project to heroku [Reference Link](https://medium.com/swlh/how-to-host-your-next-js-application-for-free-on-heroku-c6ba99ebb8b8) .
 
 Open [https://next-to-heroku123.herokuapp.com/](https://next-to-heroku123.herokuapp.com/) to see deployed heroku app.
